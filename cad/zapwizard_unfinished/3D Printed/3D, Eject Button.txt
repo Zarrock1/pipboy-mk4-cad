@@ -1,0 +1,11 @@
+3D, Eject Button:
+
+Part Notes:
+This part is designed to be made from 3D printed SLS nylon.
+You can order this part at: www.3DPipBoy.com
+
+The part can be metalized with electro-less plating, rub-and-buff or spray paint.
+Since this part doesn't have compound curves, you can also try a aluminum or mylar foil tape.
+The goal is to simulate a cast aluminum part.
+
+This part could also be cast in metal with the side holes drilled through. The dimesions of the cast part would need to be adjusted for shinkage.

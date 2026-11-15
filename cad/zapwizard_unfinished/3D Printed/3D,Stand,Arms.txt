@@ -1,0 +1,8 @@
+3D, Stand Arms:
+
+Part Notes:
+This part is designed to be made from 3D printed SLS nylon.
+You can order this part at: www.3DPipBoy.com
+
+These are desigined to hold the Pip-Boy in a horizontal position. The holes in the bottom are sized
+for self-tapping plastite screws.

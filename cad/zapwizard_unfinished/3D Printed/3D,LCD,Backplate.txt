@@ -1,0 +1,11 @@
+3D, LCD baackplate:
+
+Part Notes:
+This part is designed to be made from 3D printed SLS nylon.
+You can order this part at: www.3DPipBoy.com
+
+This part is designed to hold a specific AMOLED display in place, as well as aid in routing the
+LCD cable.
+
+It is designed to allow it to be mounted to the motherboard to allow the electronics to be tested
+prior to installation.

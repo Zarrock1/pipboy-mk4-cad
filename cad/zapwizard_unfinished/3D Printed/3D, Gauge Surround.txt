@@ -1,0 +1,7 @@
+3D, Guage Surround:
+
+Part Notes:
+This part is designed to be made from 3D printed SLS nylon.
+You can order this part at: www.3DPipBoy.com
+
+The part should be kept white to help diffuse the LEDs.

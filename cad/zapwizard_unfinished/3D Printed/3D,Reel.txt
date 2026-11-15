@@ -1,0 +1,13 @@
+3D, Reel:
+
+Part Notes:
+This part is designed to be made from 3D printed SLS nylon.
+You can order this part at: www.3DPipBoy.com
+
+This part is designed to hold a thin 3.0mm flexible USB cable. It will hold about 12 inches of cable.
+The cable should be loosely wound to prevent friction during re-winding.
+
+I never really solved the spring tension on this part. So it is hit or miss when it works. Perhaps
+greasing it may help.
+
+The middle is meant to hold onto a slip-ring PCB.

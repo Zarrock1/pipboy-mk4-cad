@@ -1,0 +1,9 @@
+3D, Macro Knob Cover:
+
+Part Notes:
+This part is designed to be made from 3D printed SLS nylon.
+You can order this part at: www.3DPipBoy.com
+
+The hole in this part is designed to hold three metal pins, glued into place.
+The pin should allow a press-fit onto the Pip-Boy, while still allowing the cover to be removed if
+needed.

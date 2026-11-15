@@ -1,0 +1,7 @@
+3D, Gear Middle:
+
+Part Notes:
+This part is designed to be made from 3D printed SLS nylon.
+You can order this part at: www.3DPipBoy.com
+
+Because of the simple stacked nature, this part could be made from laser-cut Acetal and glued together.

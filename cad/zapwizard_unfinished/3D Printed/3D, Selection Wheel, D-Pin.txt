@@ -1,0 +1,8 @@
+3D, Selection Wheel, D-Pin:
+
+Part Notes:
+This part is designed to be made from 3D printed SLS nylon.
+You can order this part at: www.3DPipBoy.com
+
+This is a shaft or pin for use with the selection wheel. It may need to be sanded to fit through
+the potentiometer and fit snugly into the selection wheel.

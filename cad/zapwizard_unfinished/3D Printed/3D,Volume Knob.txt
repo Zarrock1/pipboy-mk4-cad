@@ -1,0 +1,7 @@
+3D, Volume Knob:
+
+Part Notes:
+This part is designed to be made from 3D printed SLS nylon.
+You can order this part at: www.3DPipBoy.com
+
+This part is designed to fit into one of the Potentiometers, and be secured using a C-Clip.

@@ -1,0 +1,8 @@
+3D, Select Button:
+
+Part Notes:
+This part is designed to be made from 3D printed SLS nylon.
+You can order this part at: www.3DPipBoy.com
+
+The hole in this part is designed to have two metal pins glued in place. It should snap-fit onto
+the switch.

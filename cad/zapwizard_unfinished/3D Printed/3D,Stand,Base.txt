@@ -1,0 +1,12 @@
+3D, Stand Base:
+
+Part Notes:
+This part is designed to be made from 3D printed SLS nylon.
+You can order this part at: www.3DPipBoy.com
+
+These was designed to emulate the look of the stand included with the "Pip-Boy Edition" of the game.
+
+The back has a hold for a charger cable to be added. The charger cable can be routed up and into the
+power connector hidden in the inside of the Pip-Boy.
+
+The front is flat to allow an adhesive label to be added.

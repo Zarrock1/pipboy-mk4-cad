@@ -1,0 +1,12 @@
+3D, Link Cable White:
+
+Part Notes:
+This part is designed to be made from 3D printed SLS nylon.
+You can order this part at: www.3DPipBoy.com
+
+This part must be printed in white to look correct.
+
+This part is designed to hold a 3.0mm USB cable. The cable can be secured using hot-glue or a 
+C-Clamp.
+
+This part is reverse threaded to prevent it from seperating when detacting it from the Pip-Boy.

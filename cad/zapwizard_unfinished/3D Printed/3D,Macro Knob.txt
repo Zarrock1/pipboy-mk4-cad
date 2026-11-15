@@ -1,0 +1,9 @@
+3D, Macro Knob:
+
+Part Notes:
+This part is designed to be made from 3D printed SLS nylon.
+You can order this part at: www.3DPipBoy.com
+
+This part is designed to fit into one of the Potentiometers, and be secured using a C-Clip.
+The holes in the part mate with a spring-ball to provide a solid snap-action.
+The large opening is designed to mate with a metal pin to provent over-rotation.

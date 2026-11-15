@@ -1,0 +1,8 @@
+3D, Back Inside:
+
+Part Notes:
+This part is designed to be made from 3D printed SLS nylon.
+You can order this part at: www.3DPipBoy.com
+
+This part is designed just to fill in the empty space behind the Pip-Boy, and allow some padding to
+be sown into place. This part design was never really finished.

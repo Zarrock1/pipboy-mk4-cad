@@ -1,0 +1,12 @@
+3D, Front:
+
+Part Notes:
+This part is designed to be made from 3D printed SLS nylon.
+You can order this part at: www.3DPipBoy.com
+
+This is the single most complex part in the design. It was made a singular part both to make it very
+strong and light, as well as to lower the cost compared to ordering a lot of sub-components.
+
+This part requires complex painting, and multiple finishes. All the holes should be sized correclty
+when printed in SLS nylon. Each hold has an excape to prevent clogging of powder during the cleanup
+process. All the mounting points for the various hardware is built-in to the model.

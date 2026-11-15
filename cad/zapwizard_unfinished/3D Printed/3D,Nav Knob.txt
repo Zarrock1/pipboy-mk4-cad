@@ -1,0 +1,8 @@
+3D, Nav Knob:
+
+Part Notes:
+This part is designed to be made from 3D printed SLS nylon.
+You can order this part at: www.3DPipBoy.com
+
+This part is designed to snap onto the joystick component on the Nav PCB.
+The backside is curved to allow it to angle as needed to create a D-pad action.

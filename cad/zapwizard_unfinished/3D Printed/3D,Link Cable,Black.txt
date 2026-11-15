@@ -1,0 +1,10 @@
+3D, Link Cable Black:
+
+Part Notes:
+This part is designed to be made from 3D printed SLS nylon.
+You can order this part at: www.3DPipBoy.com
+
+This part is designed to hold a specific USB cable. See the BOM. The cable may need to be glued in
+place.
+
+This part is reverse threaded to prevent it from seperating when detacting it from the Pip-Boy.
