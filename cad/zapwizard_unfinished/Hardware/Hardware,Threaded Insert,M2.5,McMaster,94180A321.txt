@@ -1,0 +1,3 @@
+Notes for Hardware,Screw,#2x0.125in,McMaster,92453A074
+
+You have to melt these into the plastic very carefully using a soldering iron.

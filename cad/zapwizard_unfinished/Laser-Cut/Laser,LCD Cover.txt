@@ -1,0 +1,6 @@
+Notes for Laser,LCD Cover:
+
+The intent was the laser cut this file, using a deep etch to make the side tabs.
+Then place the part into a laser-cut wooden jig that holds the edges square, but allows the middle
+to sag. The jig would be put into a oven and the acrylic heated until gravity applies a natural
+bow to the acrylic. This would simulate a CRT display.

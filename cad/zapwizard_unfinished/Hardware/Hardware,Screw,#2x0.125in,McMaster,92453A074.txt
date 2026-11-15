@@ -1,0 +1,3 @@
+Notes for Hardware,Screw,#2x0.125in,McMaster,92453A074
+
+I recommend aging these a bit before installation.

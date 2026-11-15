@@ -1,0 +1,3 @@
+Notes for Hardware,Screw,#0x0.125L,Plastic tapping,McMaster,99461A505:
+
+Selected as these screws can tap into plastics without cracking the plastic.
