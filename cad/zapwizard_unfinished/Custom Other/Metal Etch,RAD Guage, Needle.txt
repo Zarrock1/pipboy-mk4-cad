@@ -1,0 +1,8 @@
+Metal Etch, RAD Guage Needle:
+
+Part Notes:
+This part is tiny. It is intended to be fabricated by acid etching thin steel.
+It may also be possible to laser cut this from a very thin carbon fiber sheet:
+McMaster 2153T21 or similar.
+
+I never found a off-the-shelf watch needle which fit the bill, so it has to be custom made.

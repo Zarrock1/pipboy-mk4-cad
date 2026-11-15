@@ -1,0 +1,12 @@
+Metal, Label Stand:
+
+Part Notes:
+Real aluminum labels are made by photo-exposing aluminum sheet with a resist on the surface.
+The resulting plate is very durable and sharp. This technique has been used for decades.
+Most high quality label shops can make these, but require a minimum sheet size and order size.
+
+It is also possible to make it by laser-etching anodized aluminum.
+
+The vector artwork for this file is in the Artwork folder.
+
+The part is intended to be stuck to the base using adhesive. 3M 300LSE is the best to use for this.
