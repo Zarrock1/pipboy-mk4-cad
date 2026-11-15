@@ -1,0 +1,3 @@
+Notes for Elec,Resistor,0.25W
+
+Generic CAD model for a small resistor.

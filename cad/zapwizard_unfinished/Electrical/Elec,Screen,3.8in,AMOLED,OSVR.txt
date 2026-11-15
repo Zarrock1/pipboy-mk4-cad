@@ -1,0 +1,11 @@
+Notes for Elec,Screen,3.8in,AMOLED,OSVR
+
+Okay, this was the hardest part to find and source. But due to the innovations in VR headsets, you
+might be able to get your hands on one.
+
+The display is from the opensource OSVR virtual reality headset developed by Razer:
+https://github.com/OSVR/OSVR-Docs/blob/master/README.md
+https://osvr.github.io/using/
+
+The Dragonboard 410C can drive a MIPI display such as this. And it is one reason it was selected.
+You can look through the design of the OSVR for schematics on driving the display.

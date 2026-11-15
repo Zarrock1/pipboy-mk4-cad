@@ -1,0 +1,7 @@
+Notes for Elec,Connector,60pos,7mm,TE,5179030-2
+
+MFG: TE
+PN: 5179030-2
+URL: https://www.mouser.com/ProductDetail/TE-Connectivity-AMP/5179030-2/?qs=sGAEpiMZZMvffgRu4KC1R4NwtXq5vwtIGD0vpT7BV0Y%3d
+
+Required to interface with the Dragonboard 410C

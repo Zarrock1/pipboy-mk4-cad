@@ -1,0 +1,7 @@
+Notes for Elec,Connector, USB-A, Vert,TE,1734366-1
+
+MFG: TE
+PN: 1734366-1
+URL: https://www.digikey.com/product-detail/en/te-connectivity-amp-connectors/1734366-1/A114947-ND/
+
+A simple USB vertical PCB connector.

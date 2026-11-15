@@ -1,0 +1,8 @@
+Notes for Elec,Tactile Switch, 5mm,E-Switch,TL1265YQSCLR
+
+MFG: E-Switch
+PN: TL1265YQSCLR
+URL: https://www.digikey.com/products/en?keywords=TL1265YQSCLR
+
+Selected as the top cap was very close to the look of the actual Pip-Boy buttons. The amber color
+is also correct to the game.

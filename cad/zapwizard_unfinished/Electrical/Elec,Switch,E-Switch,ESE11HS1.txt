@@ -1,0 +1,7 @@
+Notes for Elec,Switch,E-Switch,ESE11HS1
+
+MFG: E-Switch
+PN: ESE11HS1
+URL: https://www.digikey.com/products/en?keywords=ESE11HS1
+
+Selected for the small size, and mounting hole. This switch detects if the Holotape cassete is closed.

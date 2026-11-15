@@ -1,0 +1,7 @@
+Notes for Elec,Connector,40Pos,2mm,Molex,877584016
+
+MFG: Molex
+PN: 877584016
+URL: https://www.digikey.com/products/en?keywords=877584016
+
+20x2 (40 pin) 2mm pitch connector. Required to interface with the Dragonboard 410C

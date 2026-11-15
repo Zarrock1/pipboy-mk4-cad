@@ -1,0 +1,7 @@
+Notes for Elec,Battery Holder, CR2032,Keystone,PN3002:
+
+MFG: Keystone
+PN: PN3002
+
+This part was selected as it is the slimmest CR2032 battery holder I cound find. The negative
+contact is placed on the PCB, and this part solders on like a surface mount component.

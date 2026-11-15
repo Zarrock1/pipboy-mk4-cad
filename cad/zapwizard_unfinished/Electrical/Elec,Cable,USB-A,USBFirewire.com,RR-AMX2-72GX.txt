@@ -1,0 +1,7 @@
+Notes for Elec,Cable,USB-A,USBFirewire.com,RR-AMX2-72GX
+
+MFG: USBFirewire.com
+PN: RR-AMX2-72GX
+
+This company makes very reliable USB cables, they provide 3D models of their parts, and their
+models are accurate.

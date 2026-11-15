@@ -1,0 +1,13 @@
+Notes for Elec,Guage Needle Motor,Simco,2022-716
+
+MFG: Simco
+PN: 2022-716
+URL: http://www.simcoaftermarket.com/specialty-oem/micro-air-core/
+
+This is the smallest real guage motor I could find on the market. Note that Simco is not in the
+habbit of selling one or two units, so if you call them, ask nicely and know what your asking for.
+I recommend purchasing the dampened version so you don't have to eat battery power holding the needle.
+
+These don't work like normal motors, servoes or anything like it. Instead they have two coils which
+hold the needle at a paticular angle. You will need a special motor driver (see their datasheets)
+as well as doing some math in the processor.

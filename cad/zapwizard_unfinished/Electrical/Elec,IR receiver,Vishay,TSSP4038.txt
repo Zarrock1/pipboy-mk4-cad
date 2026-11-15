@@ -1,0 +1,9 @@
+Notes for Elec,IR receiver,Vishay,TSSP4038
+
+MFG: Vishay
+PN: TSSP4038
+URL: https://www.digikey.com/product-detail/en/vishay-semiconductor-opto-division/TSSP4038/TSSP4038-ND/3789836
+
+This part is a IR receiver, the type used to pick up the signal from a television IR remote.
+It can be connected directly to a microprocessor input. This part picks up the IR signal sent out
+by the IR (Full) Holotape in order to pick up the holotape signal.

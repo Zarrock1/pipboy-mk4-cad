@@ -1,0 +1,8 @@
+Notes for Elec,Microphone, 6x1.5mm,PUI,POM-1345P-C3310-R
+
+MFG: PUI Audio
+PN: POM-1345P-C3310-R
+URL: https://www.digikey.com/products/en?keywords=POM-1345P-C3310-R
+
+Selected for the low-profile. This part would connect to the Mic input on the Dragonboard in order
+to allow the user to record holotape files.

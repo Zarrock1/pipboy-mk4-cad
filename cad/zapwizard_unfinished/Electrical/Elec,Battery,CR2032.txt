@@ -1,0 +1,6 @@
+Notes for Elec,Battery,CR2032:
+
+MFG: Panasonic
+PN: CR2032
+
+This is a simple small 3V battery. It is commonly found at retailers.

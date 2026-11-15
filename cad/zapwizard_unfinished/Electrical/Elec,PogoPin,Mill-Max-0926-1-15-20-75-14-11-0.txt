@@ -1,0 +1,9 @@
+Notes for Elec,PogoPin,Mill-Max-0926-1-15-20-75-14-11-0
+
+MFG: Mill-max
+PN: 0926-1-15-20-75-14-11-0
+URL: https://www.digikey.com/product-detail/en/mill-max-manufacturing-corp/0926-1-15-20-75-14-11-0/ED1652-ND/
+
+Pogo-pins are great little parts. They can hold an electrical contact even under vibration. They
+are also used for batteries. In the Pip-Boy they will connect the slip-ring to allow the charger
+cable to connect to the rest of the system.

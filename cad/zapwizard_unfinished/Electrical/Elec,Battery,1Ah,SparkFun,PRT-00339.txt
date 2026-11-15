@@ -1,0 +1,8 @@
+Notes for Elec,Battery,1Ah,SparkFun,PRT-00339:
+
+MFG: SparkFun
+PN: PRT-00339
+URL: https://www.sparkfun.com/products/13813
+
+This part was selected as it is the smallest battery with a good capactity that I could find, and 
+it is also easy to get a hold of.

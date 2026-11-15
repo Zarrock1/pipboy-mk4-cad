@@ -1,0 +1,7 @@
+Notes for Elec,Connector,Power,Jack,Tensility,50-00057
+
+MFG: Tensility
+PN: 50-00057
+URL: https://www.digikey.com/product-detail/en/tensility-international-corp/50-00057/839-1210-ND/3985771
+
+Selected for its small size

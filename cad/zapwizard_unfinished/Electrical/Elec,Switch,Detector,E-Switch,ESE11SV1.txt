@@ -1,0 +1,7 @@
+Notes for Elec,Switch,Detector,E-Switch,ESE11SV1
+
+MFG: E-Switch
+PN: ESE11SV1
+URL: https://www.digikey.com/products/en?keywords=ESE11SV1
+
+Selected for the ultra small size, and long throw of the actuator.

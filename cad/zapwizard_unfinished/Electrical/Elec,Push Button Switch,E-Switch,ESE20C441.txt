@@ -1,0 +1,9 @@
+Notes for Elec,Push Button Switch,E-Switch,ESE20C441
+
+MFG: E-Switch
+PN: ESE20C441
+URL: https://www.digikey.com/products/en?keywords=ESE20C441
+
+This part was selected due to the large amount of travel required. This makes it less of a "clicky"
+button and more of a satisfying "Press". Think of the difference between a laptop keyboard and those
+popular mechanical Cherry switches.

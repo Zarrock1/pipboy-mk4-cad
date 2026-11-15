@@ -1,0 +1,7 @@
+Notes for Elec,LED,2mm,Red,Panasonic,LN222RPX
+
+MFG: Panasonic
+PN: LN222RPX
+URL: https://www.digikey.com/products/en?keywords=LN222RPX
+
+Selected for the built-in 2mm post.

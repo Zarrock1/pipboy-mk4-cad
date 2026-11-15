@@ -1,0 +1,7 @@
+Notes for Elec,Speaker,CUI,CDS-13138-SMT-TR
+
+MFG: CUI
+PN: CDS-13138-SMT-TR
+URL: https://www.digikey.com/product-detail/en/cui-inc/CDS-13138-SMT-TR/102-3536-1-ND/5355549
+
+Selected for the small size, but relatively high power. Can be driving like any other 8ohm speaker.

@@ -1,0 +1,10 @@
+Notes for Elec,Switch,Joystick,E-Switch,JS5208
+
+MFG: E-Switch
+PN: JS5208
+URL: https://www.digikey.com/products/en?keywords=JS5208
+
+A joystick was added since the small knob at the bottom of the Pip-Boy has no defined function.
+Since there is no touch-screen, it makes sense to add a navigation pad.
+
+This is a "D-Pad" switch. It allows for up-down-left-right and select.

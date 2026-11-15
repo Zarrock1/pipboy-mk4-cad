@@ -1,0 +1,9 @@
+Notes for Elec,Pot,SMT,Bourns,3382H-1-103
+
+MFG: Bourns
+PN: 3382H-1-103
+URL: https://www.digikey.com/products/en?keywords=3382H-1-103
+
+This is an amazing part. It is a thin, 360degree rotatable potentiometer. So it is as easy to wire
+to a microcontroller as any other POT. But fits into small spaces such as the tiny Holotape. It is
+used extensivly in the Pip-Boy design.

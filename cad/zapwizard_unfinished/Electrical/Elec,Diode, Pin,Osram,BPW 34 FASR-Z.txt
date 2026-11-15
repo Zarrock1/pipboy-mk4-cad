@@ -1,0 +1,12 @@
+Notes for Elec,Diode, Pin,Osram,BPW 34 FASR-Z
+
+MFG: Osram
+PN: BPW 34 FASR-Z
+URL: https://www.digikey.com/product-detail/en/osram-opto-semiconductors-inc/BPW-34-FASR-Z/475-1346-1-ND/1227852
+
+A PIN Diode can work as a radiation detector. The larger the PIN diode interface, the more sensative
+the detector. You can wrap the whole detector with very thin foil tape to block outside interference.
+
+There are many schematics out ther for PIN diode radiation dectors, however in the end I would
+suggest purchasing a pre-made detector module such as this: 
+https://www.sparkfun.com/products/14209

@@ -1,0 +1,7 @@
+Notes for Elec,Connector,Power,3.5mm,CUI,PP3-002D
+
+MFG: CUI
+PN: PP3-002D
+URL: https://www.digikey.com/product-detail/en/cui-inc/PP3-002D/CP3-1003-ND/992139
+
+Selected for its small size

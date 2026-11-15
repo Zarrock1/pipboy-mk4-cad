@@ -1,0 +1,7 @@
+Notes for Elec,Connector,Power,SwitchCraft,732A
+
+MFG: Switchcraft
+PN: 732A
+URL: https://www.digikey.com/product-detail/en/switchcraft-inc/732A/SC1826-ND/1289110
+
+Selected for its bulkhead mechanical mount

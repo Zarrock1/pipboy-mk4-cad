@@ -1,0 +1,7 @@
+Notes for Elec,Switch,E-Switch,EG1218
+
+MFG: E-Switch
+PN: EG1218
+URL: https://www.digikey.com/product-detail/en/e-switch/EG1218/EG1903-ND/101726
+
+Selected for the small size.
